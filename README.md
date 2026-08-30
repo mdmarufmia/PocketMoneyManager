@@ -53,3 +53,26 @@ src/
         ├── RegisterFrame
         ├── User
         └── UserManager
+
+
+##  Screenshots
+
+### Login
+
+![Login](screenshots/login.png)
+
+### Register
+
+![Register](screenshots/register.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Add Expense
+
+![Add Expense](screenshots/add-expense.png)
+
+### Transaction History
+
+![Transaction History](screenshots/history.png)
