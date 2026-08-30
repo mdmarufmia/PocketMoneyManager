@@ -81,12 +81,3 @@ src/
         ├── RegisterFrame
         ├── User
         └── UserManager
-
-
-
-
-![Add Expense](screenshots/add-expense.png)
-
-### Transaction History
-
-![Transaction History](screenshots/history.png)
