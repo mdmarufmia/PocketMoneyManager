@@ -26,9 +26,37 @@ record allowances and expenses, and view and edit transaction history.
 - NetBeans IDE
 - GUI Builder
 - Object-Oriented Programming (OOP)
+  
+## How to Run
+-Clone this repository.
+-Open the project in NetBeans.
+-Build the project.
+-Run the application.
+
+## Purpose
+This project was developed as a learning project to practice Java,
+GUI development, object-oriented programming, and application structure.
+
+
+##  Screenshots
+
+### Login
+
+![Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Add Expense
+
+![Add Expense](screenshots/add-expense.png)
+
+### Transaction History
+
+![History](screenshots/history.png)
 
 ## Project Structure
-
 ```text
 src/
 └── pocketmoneymanager/
@@ -55,21 +83,7 @@ src/
         └── UserManager
 
 
-##  Screenshots
 
-### Login
-
-![Login](screenshots/login.png)
-
-### Register
-
-![Register](screenshots/register.png)
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Add Expense
 
 ![Add Expense](screenshots/add-expense.png)
 
